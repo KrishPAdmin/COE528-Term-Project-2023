@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="321.0" prefWidth="577.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.coe528finalprojectgroup36.LoginController">
+   <children>
+      <TextField fx:id="usernameField" layoutX="224.0" layoutY="161.0" />
+      <PasswordField fx:id="passwordField" layoutX="224.0" layoutY="196.0" />
+      <Button fx:id="loginButton" layoutX="260.0" layoutY="232.0" mnemonicParsing="false" onAction="#executeLogin" prefHeight="26.0" prefWidth="56.0" text="Login" />
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutY="42.0" prefHeight="24.0" prefWidth="577.0" text="Welcome back to Bibliotecha!" />
+      <Label alignment="CENTER" layoutX="209.0" layoutY="66.0" prefHeight="23.0" prefWidth="158.0" text="Please login below" />
+      <Label fx:id="userLabel" layoutX="151.0" layoutY="162.0" prefHeight="23.0" prefWidth="72.0" text="Username:" />
+      <Label fx:id="passwordLabel" layoutX="151.0" layoutY="197.0" prefHeight="23.0" prefWidth="72.0" text="Password:" />
+      <Label fx:id="badLog" alignment="CENTER" layoutX="-1.0" layoutY="142.0" prefHeight="18.0" prefWidth="577.0" text="" AnchorPane.bottomAnchor="160.6" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.39999999999997726" AnchorPane.topAnchor="142.0" />
+   </children>
+</AnchorPane>
