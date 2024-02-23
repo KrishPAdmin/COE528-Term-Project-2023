@@ -7,11 +7,12 @@
 - **Assignment/Lab Number:** Term Project
 
 ## Student Details
-- **Student Name:** Krish Patel
-- **Student Name:** Connor Collington
-- **Student Name:** Muhammad Hussain Al-lami
-- **Student Name:** Success Daka
-- **Student Name:** Mahdi Hassen
+**Student Names:**
+- Krish Patel
+- Connor Collington
+- Muhammad Hussain Al-lami
+- Success Daka
+- Mahdi Hassen
 
 ## Login Credentials
 - **Owner Username:** admin
